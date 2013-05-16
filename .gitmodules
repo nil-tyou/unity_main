@@ -1,0 +1,3 @@
+[submodule "Assets/Scripts/unity_test"]
+	path = Assets/Scripts/unity_test
+	url = https://github.com/nil-tyou/unity_test.git
